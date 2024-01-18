@@ -1,0 +1,11 @@
+Device Model: Oculus Quest Quest 2 sizeBatch: 8 learningRate: 0,1 Battery Level: 100
+Model accuracy: 83,91% Epoch: 1 of 10, Epoch time:: 173,93s Battery Level: 98
+Model accuracy: 86,34% Epoch: 2 of 10, Epoch time:: 174,14s Battery Level: 96
+Model accuracy: 86,86% Epoch: 3 of 10, Epoch time:: 174,24s Battery Level: 94
+Model accuracy: 86,21% Epoch: 4 of 10, Epoch time:: 174,8s Battery Level: 91
+Model accuracy: 86,53% Epoch: 5 of 10, Epoch time:: 173,9s Battery Level: 89
+Model accuracy: 87,07% Epoch: 6 of 10, Epoch time:: 173,78s Battery Level: 87
+Model accuracy: 87,77% Epoch: 7 of 10, Epoch time:: 173,8s Battery Level: 85
+Model accuracy: 88,08% Epoch: 8 of 10, Epoch time:: 173,8s Battery Level: 83
+Model accuracy: 88,03% Epoch: 9 of 10, Epoch time:: 173,73s Battery Level: 81
+Model accuracy: 88,07% Epoch: 10 of 10, Epoch time:: 173,71s Battery Level: 79

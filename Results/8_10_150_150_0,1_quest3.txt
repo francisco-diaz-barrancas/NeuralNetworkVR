@@ -1,0 +1,11 @@
+Device Model: Oculus Quest Quest 3 sizeBatch: 8 learningRate: 0,1 Battery Level: 100
+Model accuracy: 85,13% Epoch: 1 of 10, Epoch time:: 204,55s Battery Level: 98
+Model accuracy: 86,34% Epoch: 2 of 10, Epoch time:: 213,94s Battery Level: 97
+Model accuracy: 86,98% Epoch: 3 of 10, Epoch time:: 213,42s Battery Level: 95
+Model accuracy: 87,14% Epoch: 4 of 10, Epoch time:: 213,16s Battery Level: 93
+Model accuracy: 87,48% Epoch: 5 of 10, Epoch time:: 213,82s Battery Level: 91
+Model accuracy: 87,52% Epoch: 6 of 10, Epoch time:: 213,44s Battery Level: 90
+Model accuracy: 87,73% Epoch: 7 of 10, Epoch time:: 213,42s Battery Level: 88
+Model accuracy: 87,8% Epoch: 8 of 10, Epoch time:: 213,98s Battery Level: 86
+Model accuracy: 87,92% Epoch: 9 of 10, Epoch time:: 214,32s Battery Level: 84
+Model accuracy: 88,44% Epoch: 10 of 10, Epoch time:: 214,07s Battery Level: 82

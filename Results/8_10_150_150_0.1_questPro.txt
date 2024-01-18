@@ -1,0 +1,11 @@
+Device Model: Oculus Quest Quest Pro sizeBatch: 8 learningRate: 0.1 Battery Level: 100
+Model accuracy: 84.48% Epoch: 1 of 10, Epoch time:: 174.35s Battery Level: 98
+Model accuracy: 86.18% Epoch: 2 of 10, Epoch time:: 174.58s Battery Level: 96
+Model accuracy: 87.08% Epoch: 3 of 10, Epoch time:: 174.4s Battery Level: 94
+Model accuracy: 88.06% Epoch: 4 of 10, Epoch time:: 174.2s Battery Level: 92
+Model accuracy: 88.38% Epoch: 5 of 10, Epoch time:: 174.35s Battery Level: 91
+Model accuracy: 88.73% Epoch: 6 of 10, Epoch time:: 174.4s Battery Level: 89
+Model accuracy: 88.89% Epoch: 7 of 10, Epoch time:: 174.77s Battery Level: 87
+Model accuracy: 88.92% Epoch: 8 of 10, Epoch time:: 174.2s Battery Level: 86
+Model accuracy: 88.91% Epoch: 9 of 10, Epoch time:: 174.58s Battery Level: 84
+Model accuracy: 88.78% Epoch: 10 of 10, Epoch time:: 174.09s Battery Level: 82

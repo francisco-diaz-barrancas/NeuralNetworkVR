@@ -1,0 +1,11 @@
+Device Model: Oculus Quest Meta Quest sizeBatch: 8 learningRate: 0,1 Battery Level: 100
+Model accuracy: 85,03% Epoch: 1 of 10, Epoch time:: 312,72s Battery Level: 98
+Model accuracy: 85,36% Epoch: 2 of 10, Epoch time:: 312,53s Battery Level: 96
+Model accuracy: 86,1% Epoch: 3 of 10, Epoch time:: 314,19s Battery Level: 90
+Model accuracy: 86,24% Epoch: 4 of 10, Epoch time:: 314,33s Battery Level: 87
+Model accuracy: 87,52% Epoch: 5 of 10, Epoch time:: 313,34s Battery Level: 84
+Model accuracy: 87,81% Epoch: 6 of 10, Epoch time:: 313,31s Battery Level: 81
+Model accuracy: 87,88% Epoch: 7 of 10, Epoch time:: 313,35s Battery Level: 78
+Model accuracy: 88,05% Epoch: 8 of 10, Epoch time:: 313,3s Battery Level: 74
+Model accuracy: 88,47% Epoch: 9 of 10, Epoch time:: 313,34s Battery Level: 71
+Model accuracy: 88,4% Epoch: 10 of 10, Epoch time:: 313,31s Battery Level: 67
